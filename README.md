@@ -1,27 +1,6 @@
-Joysticks - No Pain No Game
+- 2ème projet d'étude de la Wild Code School : 
+En Deux partie : 
+>Pour l'utilisateur : consulter le catalogue de jeux vidéo et réserver le jeu mis en avant.
+>Pour l'administrateur : gérer sa liste de jeux vidéo via l'ajout, la modification ou la suppression d'un jeu ainsi que la possibilité de choisir le jeu mis en avant et réservable côté utilisateur. 
 
-## API
-
-* _get_   **92.175.11.66:3000/joysticks/api/games**
-
-  Récupère tous les jeux
-  
-* _get_   **92.175.11.66:3000/joysticks/api/games/:id**
-
-  Récupère le jeu en fonction de l'_id_ passé dans l'URL
-  
-* _post_   **92.175.11.66:3000/joysticks/api/games**
-
-  Insère un jeu
-  
-* _put_   **92.175.11.66:3000/joysticks/api/games/:id**
-
-  Modifie le jeu identifié par l'_id_ passé dans l'URL
-    
-* _put_   **92.175.11.66:3000/joysticks/api/games/promo/:id**
-
-  Permet de changer le jeu à mettre en promotion
-  
-* _delete_   **92.175.11.66:3000/joysticks/api/games/:id**
-
-  Supprime le jeu identifié par l'_id_ passé dans l'URL
+http://www.campus-bordeaux.ovh/joysticks/
